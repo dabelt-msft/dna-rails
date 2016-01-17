@@ -1,0 +1,2 @@
+class DnaController < ApplicationController
+end
